@@ -6,8 +6,8 @@ require 'jwplayer/rails/version'
 Gem::Specification.new do |gem|
   gem.name          = "jwplayer-rails"
   gem.version       = JWPlayer::Rails::VERSION
-  gem.authors       = ["Anton Volkov"]
-  gem.email         = ["choixer@gmail.com"]
+  gem.authors       = ["Anton Volkov", "Jan Rietema"]
+  gem.email         = ["choixer@gmail.com", "jan.rietema@web.de"]
   gem.description   = "Rails asset pipeline integration for JWPlayer."
   gem.summary       = "Seamlessly integrates JWPlayer into the Rails asset pipeline."
 
